@@ -1,0 +1,24 @@
+{
+    "id": "h5-pages-animation",
+    "name": "h5-pages-animation(H5页面动画切换组件)",
+    "version": "1.0.2",
+    "description": "h5页面跳转动画组件,修复了一些缺陷(scrollview位置不正确,input为空,ios手势返回动画)",
+    "keywords": [
+        "H5动画",
+        "H5过渡动画",
+        "H5跳转动画"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "animate": "^1.0.0",
+        "animate.css": "^4.1.1",
+        "uni-simple-router": "^2.0.8-beta.4",
+        "uview": "^0.1.0",
+        "uview-ui": "^2.0.33"
+    }
+}

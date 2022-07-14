@@ -1,0 +1,197 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2440705 */
+  src: url('~@/static/iconfont/iconfont.ttf');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconlishijilu_huaban:before {
+  content: "\e618";
+}
+
+.iconquxiaofabu:before {
+  content: "\e697";
+}
+
+.iconshanchu:before {
+  content: "\e621";
+}
+
+.iconchakan:before {
+  content: "\e664";
+}
+
+.iconfabu:before {
+  content: "\e628";
+}
+
+.icon24gl-playCircle:before {
+  content: "\ea6e";
+}
+
+.iconrili:before {
+  content: "\e63a";
+}
+
+.iconzu:before {
+  content: "\e617";
+}
+
+.iconxiugaimima:before {
+  content: "\e635";
+}
+
+.icondianhua01:before {
+  content: "\e68e";
+}
+
+.iconbianji1:before {
+  content: "\e65a";
+}
+
+.iconshijian:before {
+  content: "\e62d";
+}
+
+.icondingwei:before {
+  content: "\e64b";
+}
+
+.icon0-02:before {
+  content: "\e604";
+}
+
+.icontupian:before {
+  content: "\e64a";
+}
+
+.iconfabu2:before {
+  content: "\e633";
+}
+
+.iconbianji:before {
+  content: "\e60e";
+}
+
+.iconshanchu1:before {
+  content: "\e84d";
+}
+
+.iconcuowu:before {
+  content: "\e657";
+}
+
+.icontianjiashipin:before {
+  content: "\e701";
+}
+
+.iconerweima:before {
+  content: "\e601";
+}
+
+.iconchenggong:before {
+  content: "\e606";
+}
+
+.iconxiazai:before {
+  content: "\e675";
+}
+
+.iconai-ios:before {
+  content: "\e631";
+}
+
+.iconanzhuo:before {
+  content: "\e64d";
+}
+
+.iconguanbi:before {
+  content: "\e71d";
+}
+
+.iconshouye:before {
+  content: "\e60c";
+}
+
+.icondown2:before {
+  content: "\e600";
+}
+
+.iconsousuo1:before {
+  content: "\e67c";
+}
+
+.iconyanjing:before {
+  content: "\e629";
+}
+
+.iconbiyan:before {
+  content: "\e659";
+}
+
+.iconshexiangtou:before {
+  content: "\e7a4";
+}
+
+.iconyishengdeweizhi:before {
+  content: "\e6c8";
+}
+
+.iconfanhui:before {
+  content: "\e611";
+}
+
+.icongerenzhongxin:before {
+  content: "\e60f";
+}
+
+.iconfenxiang:before {
+  content: "\e605";
+}
+
+.iconmima:before {
+  content: "\e696";
+}
+
+.icontuichu:before {
+  content: "\e683";
+}
+
+.iconwo:before {
+  content: "\e632";
+}
+
+.iconbingli:before {
+  content: "\e613";
+}
+
+.iconp-lingdang2:before {
+  content: "\e603";
+}
+
+.iconp-lingdang:before {
+  content: "\e60d";
+}
+
+.iconp-zixun-2:before {
+  content: "\e661";
+}
+
+.iconp-zixun-1:before {
+  content: "\e662";
+}
+
+.iconp-zhifubao:before {
+  content: "\e60a";
+}
+
+.iconp-weixin:before {
+  content: "\e61a";
+}
+
