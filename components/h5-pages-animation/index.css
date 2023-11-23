@@ -20,12 +20,12 @@ uni-page.hpa-animation-enter {
 
 uni-page.hpa-animation-before {
 	transform: translateX(750rpx);
-    background-color: #F2f2f2;
+    background-color: #FFFFFF;
 }
 
 uni-page.hpa-animation-after {
 	transform: translateX(0);
-    background-color:  #F2f2f2;
+    background-color:  #FFFFFF;
 }
 
 uni-page2 {
@@ -35,7 +35,7 @@ uni-page2 {
     width: 100%;
     min-height: 100%;
     display: none;
-    background-color:  #F2f2f2;
+    background-color:  #FFFFFF;
 }
 
 uni-page2.hpa-show {
