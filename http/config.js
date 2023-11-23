@@ -9,7 +9,5 @@ const CONFIG = {
         Api_url:"/api",
 		Ws_url: "",
     }
-	
-
 };
 export default CONFIG[process.env.NODE_ENV];

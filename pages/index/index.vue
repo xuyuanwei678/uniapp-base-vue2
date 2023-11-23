@@ -1,29 +1,18 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
-		<view class="text-area">
-			<text class="title">{{title}}</text>
-		</view>
-		<comB></comB>
-		<view>全局过滤器：30.21</view>
-		<navigator url="/pages/index/B">
-			跳转
-		</navigator>
-		<u-button type="primary">zhou</u-button>
-		地址：{{title}}
-		vuex: {{vuex_test}}
+		8
 	</view>
 </template>
 
 <script>
-	import comB from "./B.vue"
+	
 	export default {
 		components:{
-			comB
+			
 		},
 		data() {
 			return {
-				title: 'Hello',
+				
 			}
 		},
 		onLoad() {

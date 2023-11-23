@@ -8,6 +8,22 @@
 			"style": {
 				"navigationBarTitleText": "base-demo"
 			}
+		},
+		{
+			"path" : "pages/mine/index",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/collection/index",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 		
 	],
